@@ -41,5 +41,5 @@ fn main() {
         _ => println!("ERRO, operador inválido"),
         
     }
-    println!("Result: {}", result);
+    println!("Resultado: {}", result);
 }
