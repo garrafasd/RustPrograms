@@ -38,7 +38,7 @@ fn main() {
         2 => result = sub(num1, num2),
         3 => result = mul(num1, num2),
         4 => result = divide(num1, num2),
-        _ => println!("ERROR, INVALID OPERATOR"),
+        _ => println!("ERRO, operador inválido"),
         
     }
     println!("Result: {}", result);
